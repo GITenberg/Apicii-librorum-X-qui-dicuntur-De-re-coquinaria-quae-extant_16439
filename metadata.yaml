@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '6713'
     url: http://www.gutenberg.org/2009/agents/6713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16439#Apicii-librorum-X-qui-dicuntur-De-re-coquinaria-quae-extant
 gutenberg_bookshelf:
 - Cookery
 - Classical Antiquity
