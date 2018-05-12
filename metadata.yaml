@@ -1,0 +1,48 @@
+_repo: Apicii-librorum-X-qui-dicuntur-De-re-coquinaria-quae-extant_16439
+_version: 0.1.0
+alternative_title: De re coquinaria
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apicius
+    gutenberg_agent_id: '6712'
+    url: http://www.gutenberg.org/2009/agents/6712
+    wikipedia: http://en.wikipedia.org/wiki/Apicius
+  editors:
+  - agent_name: Vollmer, Friedrich
+    alias: Vollmer, Fridericus
+    birthdate: 1867
+    deathdate: 1923
+    gutenberg_agent_id: '6714'
+    url: http://www.gutenberg.org/2009/agents/6714
+  - agent_name: Giarratano, Caesar
+    aliases:
+    - Giarratano, C. (Caesar)
+    - Giarrantano, Caesar
+    - Giarratano, Cesare
+    birthdate: 1880
+    deathdate: 1953
+    gutenberg_agent_id: '6713'
+    url: http://www.gutenberg.org/2009/agents/6713
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Classical Antiquity
+gutenberg_issued: '2005-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16439'
+language: la
+production_note: Produced by Louise Hope, Ted Garvin, David Starner and the Online
+  Distributed Proofreading Team at http://www.pgdp.net
+publication_note: Lipsiae in aedibus B. G. Teubneri 1922
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, Roman -- Early works to 1800'
+title: Apicii librorum X qui dicuntur De re coquinaria quae extant
+url: http://www.gutenberg.org/ebooks/16439
